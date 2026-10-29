@@ -1,6 +1,6 @@
 This GitHub repository provides all datasets and R code for the analyses in the article "Contrasting life history traits in two genetically distinct Atlantic salmon (Salmo salar) populations from the same watershed" by Louarn Fauchet et al. (2026).
 All analyses are run from a single R script (in the Code and files folder). The script is organized according to the sections of the Materials and Methods and is commented throughout. File paths in the script must be adapted to your local copy of the repository.
-Repository structure
+Repository structure :
 Map: shapefiles (watercourses and watershed boundaries) and sampling locations (`.csv`) used to draw the map in Figure 1A.
 Structure: STRUCTURE runs and genotype data.
 `Genotype Selection.xlsx`: microsatellite genotypes, with the individuals and loci removed during filtering (section 3.2).
